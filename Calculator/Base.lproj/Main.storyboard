@@ -91,7 +91,6 @@
                     <navigationItem key="navigationItem" title="Tip Calculator" id="ATY-x5-P9j"/>
                     <connections>
                         <outlet property="billAmount" destination="SWL-Cv-zgZ" id="zjE-9a-diG"/>
-                        <outlet property="label1" destination="Q6M-jY-qst" id="vgD-cm-UYy"/>
                         <outlet property="tipControl" destination="c58-3z-ig4" id="WCm-84-OeA"/>
                         <outlet property="tipLabel" destination="Q6M-jY-qst" id="qby-QG-tpm"/>
                         <outlet property="totalLabel" destination="2Zl-TI-fi2" id="lzD-Xn-O0d"/>
